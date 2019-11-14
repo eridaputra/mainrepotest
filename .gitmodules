@@ -1,0 +1,6 @@
+[submodule "metaprojecttest"]
+	path = metaprojecttest
+	url = git@github.com:eridaputra/metaprojecttest.git
+[submodule "metaprojecttest2"]
+	path = metaprojecttest2
+	url = git@github.com:eridaputra/metaprojecttest2.git
