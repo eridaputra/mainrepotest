@@ -1,0 +1,6 @@
+[submodule "AirportTransport"]
+	path = AirportTransport
+	url = git@github.com:eridaputra/metaprojecttest.git
+[submodule "Flight"]
+	path = Flight
+	url = git@github.com:eridaputra/metaprojecttest2.git
